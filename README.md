@@ -1,16 +1,52 @@
-### Hi there 👋
+### Привет 👋
 
-<!--
-**aselka/aselka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Обо мне-->
 
-Here are some ideas to get you started:
+## :information_desk_person:Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Меня зовут Асель, мне 27 лет.
+- Я QA из Саратова.
+- Контакты:
+
+<p>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/bis_asel"><img width="37px" alt="Telegram" title="Telegram" src="./images/icons/tg.png"/></a>
+  &#8287;
+</p>
+
+## 💻Стек и инструменты
+
+<p  align="center">
+  <code><img width="5%" title="Python" src="./images/icons/python.png"></code>
+  <code><img width="5%" title="PyCharm" src="./images/icons/pycharm.png"></code>
+  <code><img width="6%" title="Pytest" src="./images/icons/pytest.png"></code>
+  <code><img width="6%" title="Selene" src="./images/icons/selene.png"></code>
+  <code><img width="5%" title="Allure Report" src="./images/icons/allure_report.png"></code>
+  <code><img width="5%" title="Jenkins" src="./images/icons/jenkins.png"></code>
+  <code><img width="5%" title="Selenoid" src="./images/icons/selenoid.png"></code>
+  <code><img width="5%" title="Appium" src="./images/icons/Appium-01.png"></code>
+  <code><img width="5%" title="Selenium" src="./images/icons/selenium.png"></code>
+  <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.png"></code>
+  <code><img width="5%" title="Github" src="./images/icons/git-logo.svg"></code>
+</p>
+
+## UI Autotests
+:link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_quru_ui">UI_tests</a></br></br>
+:heavy_check_mark: Реализованы автотесты UI на сайт DEMOQA </br></br>
+:round_pushpin: Что особенного:
+
+- [x] Page Object
+- [x] Инкапсуляция
+- [x] Интеграция с Allure report
+- [x] Интеграция с Jenkins
+- [x] Интеграция с Selenoid
+
+## REST API
+:link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_quru_api">API_tests</a></br></br>
+:heavy_check_mark: Реализованы автотесты Rest API на reqres.in.</br></br>
+:round_pushpin: Что особенного:
+
+- [x] Шаблоны форматирования логов запросов
+- [x] Управление конфигом через pytest
+- [x] Интеграция с Allure report
+- [x] Интеграция с Jenkins
