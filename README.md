@@ -31,7 +31,7 @@
 </p>
 
 ## UI Autotests
-:link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_quru_ui">UI_tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_guru_ui">UI_tests</a></br></br>
 :heavy_check_mark: Реализованы автотесты UI на сайт DEMOQA </br></br>
 :round_pushpin: Что особенного:
 
@@ -42,7 +42,7 @@
 - [x] Интеграция с Selenoid
 
 ## REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_quru_api">API_tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_guru_api">API_tests</a></br></br>
 :heavy_check_mark: Реализованы автотесты Rest API на reqres.in.</br></br>
 :round_pushpin: Что особенного:
 
