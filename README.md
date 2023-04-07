@@ -12,6 +12,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/bis_asel"><img width="37px" alt="Telegram" title="Telegram" src="./images/icons/tg.png"/></a>
   &#8287;
+  <a href="https://saratov.hh.ru/resume/8f93290aff03d58ba20039ed1f58473569336c"><img width="37px" alt="Hh" title="Hh" src="./images/icons/HeadHunter_logo.png"/></a>
+  &#8287;
+  <a href="https://www.linkedin.com/mwlite/in/asel-bisengalieva-62277524a"><img width="37px" alt="Linkedin" title="Linkedin" src="./images/icons/linkedin.png"/></a>
+  &#8287;
 </p>
 
 ## 💻Стек и инструменты
