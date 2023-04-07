@@ -36,7 +36,7 @@
 
 ## UI Autotests
 :link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_guru_ui">UI_tests</a></br></br>
-:heavy_check_mark: Реализованы автотесты UI на сайт DEMOQA </br></br>
+:heavy_check_mark: Реализованы автотесты UI для DEMOQA </br></br>
 :round_pushpin: Что особенного:
 
 - [x] Page Object
@@ -47,7 +47,7 @@
 
 ## REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_guru_api">API_tests</a></br></br>
-:heavy_check_mark: Реализованы автотесты Rest API на reqres.in.</br></br>
+:heavy_check_mark: Реализованы автотесты Rest API для reqres.in </br></br>
 :round_pushpin: Что особенного:
 
 - [x] Шаблоны форматирования логов запросов
