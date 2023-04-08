@@ -22,6 +22,7 @@
   &#8287;
 </p>
 
+
 ## 💻Стек и инструменты
 
 <p  align="center">
@@ -59,3 +60,9 @@
 - [x] Управление конфигом через pytest
 - [x] Интеграция с Allure report
 - [x] Интеграция с Jenkins
+
+## :bar_chart: Git cтатистика
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aselka&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aselka&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aselka&theme=radical)
