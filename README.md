@@ -39,7 +39,7 @@
 :heavy_check_mark: Реализованы автотесты UI для DEMOQA </br></br>
 :round_pushpin: Что особенного:
 
-- [x] Page Object
+- [x] Page Objects
 - [x] Инкапсуляция
 - [x] Интеграция с Allure report
 - [x] Интеграция с Jenkins
