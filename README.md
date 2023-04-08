@@ -38,6 +38,7 @@
   <code><img width="5%" title="Browserstack" src="./images/icons/browserstack.png"></code>
   <code><img width="5%" title="Github" src="./images/icons/git-logo.svg"></code>
   <code><img width="5%" title="Allure TestOps" src="./images/icons/allure_testops.png"></code>
+  <code><img width="5%" title="Jira" src="./images/icons/jira.png"></code>
 </p>
 
 ## UI Autotests
