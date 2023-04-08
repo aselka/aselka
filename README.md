@@ -43,6 +43,7 @@
 - [x] Интеграция с Allure report
 - [x] Интеграция с Jenkins
 - [x] Интеграция с Selenoid
+- [x] Интеграция с Телеграм-ботом
 
 ## REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_guru_api">API_tests</a></br></br>
