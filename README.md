@@ -36,7 +36,7 @@
   <code><img width="5%" title="Jira" src="./images/icons/jira.png"></code>
 </p>
 
-## UI Autotests
+## UI autotests
 :link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_guru_ui">UI_tests</a></br></br>
 :heavy_check_mark: Реализованы автотесты UI для DEMOQA </br></br>
 :round_pushpin: Что особенного:
@@ -48,13 +48,23 @@
 - [x] Интеграция с Selenoid
 - [x] Интеграция с Телеграм-ботом
 
-## REST API
+## API autotests
 :link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_guru_api">API_tests</a></br></br>
 :heavy_check_mark: Реализованы автотесты Rest API для reqres.in </br></br>
 :round_pushpin: Что особенного:
 
 - [x] Шаблоны форматирования логов запросов
 - [x] Управление конфигом через pytest
+- [x] Интеграция с Allure report
+- [x] Интеграция с Jenkins
+- [x] Интеграция с Телеграм-ботом
+
+## Mobile autotests
+:link: Тестовый проект: <a target="_blank" href="https://github.com/aselka/qa_guru_mobile">Mobile_tests</a></br></br>
+:heavy_check_mark: Реализованы автотесты мобильного приложения Wikipedia на эмуляторе мобильного устройства. </br></br>
+:round_pushpin: Что особенного:
+
+- [x] Интеграция с Browserstack
 - [x] Интеграция с Allure report
 - [x] Интеграция с Jenkins
 - [x] Интеграция с Телеграм-ботом
